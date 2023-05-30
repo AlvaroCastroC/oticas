@@ -1,6 +1,7 @@
 {
   "homepage": "https://AlvaroCastroC.github.io/loja-oculos/",
   "name": "loja-oculos",
+  "type": "module",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
