@@ -1,10 +1,5 @@
 import React from 'react';
 
-import img01 from '../../assets/oculos01.png';
-import img02 from '../../assets/oculos02.png';
-import img03 from '../../assets/oculos03.png';
-import img04 from '../../assets/oculos04.png';
-
 export default function Produtos () {
     return (
         <section className='secao-produtos' id='produtos'>
@@ -21,7 +16,7 @@ export default function Produtos () {
                         <h4>Óculos de grau</h4>
                         
        
-                        <img src={img01} alt='Óculos de grau' title='Óculos de grau com listras marrom'/>
+                        <img src="assets/oculos01.png" alt='Óculos de grau' title='Óculos de grau com listras marrom'/>
 
                        <div>
                        <p>R$ 500,00</p>
@@ -33,7 +28,7 @@ export default function Produtos () {
                         <h4>Óculos de transition</h4>
                         
 
-                        <img src={img02} alt='Óculos de transition' title='Óculos preto'/>
+                        <img src="assets/oculos02.png" alt='Óculos de transition' title='Óculos preto'/>
 
                         <div>
                         <p>R$ 750,00</p>
@@ -43,7 +38,7 @@ export default function Produtos () {
                         <h4>Óculos de sol</h4>
 
                         
-                        <img src={img03} alt='Óculos de sol' title='Óculos preto arredondados'/>
+                        <img src="ssets/oculos03.png" alt='Óculos de sol' title='Óculos preto arredondados'/>
 
                        <div>
                        <p>R$ 700,00</p>
@@ -54,7 +49,7 @@ export default function Produtos () {
                        
                        <h4>Óculos infantil</h4>
                        
-                       <img src={img04} alt='Óculos infantil' title='Óculos da Vougue brancos'/>
+                       <img src="ssets/oculos04.png" alt='Óculos infantil' title='Óculos da Vougue brancos'/>
                         
                       <div>
                          <p>R$ 500,00</p>

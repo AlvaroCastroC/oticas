@@ -1,13 +1,12 @@
 import React from 'react';
 
-import Img from '../../assets/logo.png';
 
 export default function Topo() {
     return (
         <header className='limitar-secao'>
             <div className='topo'>
             <div>
-                <img src= {Img}alt='Logo da Óticas vida' title='Home' className='logo-imagem'/>
+                <img src="assets/logo.png" alt='Logo da Óticas vida' title='Home' className='logo-imagem'/>
             </div>
 
             <nav>

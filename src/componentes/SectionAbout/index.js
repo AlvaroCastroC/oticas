@@ -1,7 +1,6 @@
 import React from 'react';
 
-import Img1 from '../../assets/loja.png';
-import Img2 from '../../assets/atendimento.png';
+
 
 export default function Sobre (){
     return (
@@ -13,7 +12,7 @@ export default function Sobre (){
                 </div>
                 <div className='sobre-box'>
                     <div>
-                        <img src={Img1} />
+                        <img src='assets/loja.png' alt='imagem da platileira de remedios da loja' />
                     </div>
                     <div className='card-sobre'>
                         <h4>NOSSAS FILIAIS</h4>
@@ -24,7 +23,7 @@ export default function Sobre (){
                         <p>Nossa equipe que possuimos é treinada a lhe atender</p>
                     </div>
                     <div>
-                        <img src={Img2} />
+                        <img src="assets/atendimento.png" alt='Atendente recepcionando o cliente' />
                     </div>
                 </div>
             </div>
