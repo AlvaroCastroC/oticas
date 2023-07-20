@@ -71,7 +71,7 @@ header nav a {
     align-items: flex-start;
     justify-content: center;
 
-    background-image: url("assets/capa.png");
+    background-image: url(../public/assets/capa.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center ;
@@ -290,7 +290,7 @@ header nav a {
    background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/src/assets/local.png);
+    background-image: url(../public/assets/local.png);
     
 
     
@@ -306,7 +306,7 @@ header nav a {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/src/assets/telefone.png);
+    background-image: url(../public/assets/telefone.png);
     
 
     
@@ -322,7 +322,7 @@ header nav a {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/src/assets/email.png);
+    background-image: url(../public/assets/email.png);
     
 
     
@@ -338,7 +338,7 @@ header nav a {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/src/assets/fb.png);
+    background-image: url(../public/assets/fb.png);
     
 
     
@@ -354,7 +354,7 @@ header nav a {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/src/assets/ig.png);
+    background-image: url(../public/assets/ig.png);
     
 
     
@@ -370,7 +370,7 @@ header nav a {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/src/assets/tt.png);
+    background-image: url(../public/assets/tt.png);
     
 
     
