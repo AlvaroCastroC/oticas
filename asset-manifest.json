@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/oticas/static/css/main.05243cfb.css",
-    "main.js": "/oticas/static/js/main.e3c93183.js",
+    "main.js": "/oticas/static/js/main.7eac506b.js",
     "static/js/787.72442640.chunk.js": "/oticas/static/js/787.72442640.chunk.js",
     "static/media/capa.png": "/oticas/static/media/capa.44a9e1db5439c08db3da.png",
     "index.html": "/oticas/index.html",
     "main.05243cfb.css.map": "/oticas/static/css/main.05243cfb.css.map",
-    "main.e3c93183.js.map": "/oticas/static/js/main.e3c93183.js.map",
+    "main.7eac506b.js.map": "/oticas/static/js/main.7eac506b.js.map",
     "787.72442640.chunk.js.map": "/oticas/static/js/787.72442640.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05243cfb.css",
-    "static/js/main.e3c93183.js"
+    "static/js/main.7eac506b.js"
   ]
 }
